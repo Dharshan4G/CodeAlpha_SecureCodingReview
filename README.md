@@ -1,4 +1,4 @@
-# CodeAlpha — Task 3: Secure Coding Review
+#  Secure Coding Review
 
 A hands-on secure code review of a deliberately vulnerable Python/Flask web app ("SecureNotes"),
 using manual inspection, the **Bandit** static analyser, and **live exploit verification**.
