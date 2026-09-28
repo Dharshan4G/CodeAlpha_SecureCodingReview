@@ -1,0 +1,4 @@
+vuln_app/notes.db
+uploads/
+__pycache__/
+*.pyc
